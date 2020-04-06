@@ -1,0 +1,14 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bagpipe": "^0.3.5",
+    "chalk": "^3.0.0",
+    "cheerio": "^1.0.0-rc.3",
+    "log-symbols": "^3.0.0",
+    "ora": "^4.0.3",
+    "request": "^2.88.0"
+  }
+}
